@@ -1,0 +1,58 @@
+                                  【特别声明】
+1：本人制作绿软只是出于兴趣爱好，由于水平有限,难免有不足之处，诸多问题学习积累中。
+2：此绿化版经本人在 Win XP2 下测试使用正常，但不保证在您系统上
+   或其他 Windows 系列版本操作系统下同样没有问题，也不保证由
+   本绿化版引起您的计算机系统上其他问题。您若对此没有把握,请勿使用,否则
+   对于使用后造成的损失本人将不负责任。
+3: 如软件目录中包含install.bat或绿化.exe文件，请先执行，然后运行主程序才能正常使用!
+   如不想继续使用则运行uninst.bat或除痕.exe文件后删除软件目录可达到完美御载。
+   目录中如有“导入.reg”，“key.reg”请先行执行。
+4：本人制作的绿软都来自网络，版权归作者和开发商所有。软件只供试用和学习交流，请勿
+   用于非法途径，试用后请在24小时内删除，否则产生的一切后果将由使用者承担，与本人无关。
+5：试用后如果你满意此软件并需继续使用，请向作者或开发商购买以支持正版。
+6: 如果你喜欢本绿软并需要转载,请注明出处并保留完整原始说明文件，也算是对本人劳动的一点尊重。
+======================================================================================
+感谢您的支持！^-^
+
+
+                                                     免安装制作:忘言
+                                               http://hi.baidu.com/syg0512
+                                                http://syg0512.blogcn.com
+
+软件简介：
+软件大小：2.07M
+软件语言：英文
+软件类别：国外软件/加密解密
+运行环境：Windows 98, Me, 2000, XP, 2003, Vista, 7
+开 发 商：http://www.systoolsfaqs.com
+
+PDF Unlocker 是一款界面友好，移除 PDF 文件限制的软件。
+它可以解除已加密 PDF 文件的编辑、复制、打印及提取内容等限制。
+支持 Adobe Acrobat 到 9.0 版及 128-位或 256-位加密。
+
+解除限制和可用功能:
+·可开启PDF打印功能
+·解除PDF编辑锁定功能 
+·轻松解除PDF复制限制
+·解锁PDF提取限制
+
+特点:
+·用户界面十分简单
+·简单的屏幕操作说明 
+·方便的开启PDF处理功能
+·采用简单的步骤解锁PDF限制
+·提供解锁PDF文件相关问题的在线帮助
+
+PDF Unlocker software gives you opportunity to unlock PDF restrictions with full confidence. The tool is specialized in producing high yielding results. Given below is the list of capabilities our software involves:
+
+·An extremely easy user interface
+·Simple Screen instructions no complexity at all 
+·Simple Unlock PDF process 
+·Employs easy steps to unlock PDF restrictions
+·Provision for online help regarding problems unlock PDF files and related ones
+
+Remove Restrictions and Perform the Functions:
+·Can Unlock PDF for printing
+·Enables to Unlock PDF for editing 
+·Can easily Unlock PDF for copying 
+·Enable to Unlock PDF for extracting 
